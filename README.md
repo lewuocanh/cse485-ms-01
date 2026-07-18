@@ -1,8 +1,7 @@
 # CSE485 - Phiếu 01: PHP cơ bản & Catalog MiniShop
 
 - Họ và tên: Lê Quốc Anh
-- Mã sinh viên: Điền MSSV tại đây
-- Repo yêu cầu: `cse485-ms-01`
+- Mã sinh viên: 2151170552
 
 ## Nội dung
 
